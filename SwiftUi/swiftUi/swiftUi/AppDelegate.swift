@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  WeSplit
+//  swiftUi
 //
-//  Created by Walter Oliveira on 07/11/19.
+//  Created by Walter Oliveira on 08/11/19.
 //  Copyright © 2019 Walter Oliveira. All rights reserved.
 //
 
