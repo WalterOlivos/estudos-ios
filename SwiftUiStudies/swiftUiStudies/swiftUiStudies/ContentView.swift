@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  swiftUi
+//  swiftUiStudies
 //
 //  Created by Walter Oliveira on 08/11/19.
 //  Copyright © 2019 Walter Oliveira. All rights reserved.
